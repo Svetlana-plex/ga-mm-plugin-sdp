@@ -1,4 +1,4 @@
-module github.com/mattermost/mattermost-plugin-starter-template
+module github.com/Svetlana-plex/ga-mm-plugin-sdp
 
 go 1.25
 
